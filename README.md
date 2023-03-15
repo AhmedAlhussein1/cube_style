@@ -1,2 +1,2 @@
 # cube_style
-css librarie
+css library
